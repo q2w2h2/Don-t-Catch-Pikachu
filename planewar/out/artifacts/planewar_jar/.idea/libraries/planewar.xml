@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="planewar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/planewar.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
